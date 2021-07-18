@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IxarisTask", "IxarisTask\IxarisTask.csproj", "{BA581BAC-524D-4F98-9B12-B572CE2CC619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IxarisTask.Test", "IxarisTask.Test\IxarisTask.Test.csproj", "{69C0A2D3-B7F0-4A8F-A468-9D528E95D7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA581BAC-524D-4F98-9B12-B572CE2CC619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA581BAC-524D-4F98-9B12-B572CE2CC619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA581BAC-524D-4F98-9B12-B572CE2CC619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA581BAC-524D-4F98-9B12-B572CE2CC619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C0A2D3-B7F0-4A8F-A468-9D528E95D7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C0A2D3-B7F0-4A8F-A468-9D528E95D7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C0A2D3-B7F0-4A8F-A468-9D528E95D7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C0A2D3-B7F0-4A8F-A468-9D528E95D7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BB8B76-0101-4D32-8214-9C9CDC4A6656}
+	EndGlobalSection
+EndGlobal
